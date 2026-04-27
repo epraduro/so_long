@@ -20,6 +20,16 @@ so_long est un petit jeu 2D développé en C dans le cadre du cursus 42, utilisa
 •	Une fois tous les objets récupérés, la sortie devient accessible </br>
 •	Le jeu se termine lorsque le joueur atteint la sortie </br>
 
+<h2/> Aperçu </h2>
+
+<p align="center">
+	<p> Version basique </p>
+  <img label="version basique" src="so_long.gif" width="450">
+  <p> Version bonus </p>
+  <img label="version bonus" src="so_long_bonus.gif" width="450">
+</p>
+
+
 <h2/> Contrôles </h2>
 
 | Touche / Flèches  | Action       |
